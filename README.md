@@ -1,0 +1,1 @@
+# Tyscript Ts Amazona
