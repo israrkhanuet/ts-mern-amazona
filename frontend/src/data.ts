@@ -31,7 +31,7 @@ export const productsSample: Product[] = [
     category: "shoes",
     image: "../images/p3.jpg",
     price: 80,
-    countInStock: 30,
+    countInStock: 0,
     brand: "Bata",
     rating: 5,
     numReviews: 30,
